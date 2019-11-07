@@ -12,3 +12,4 @@ class AddProductController extends Controller
     }
 }
 
+
