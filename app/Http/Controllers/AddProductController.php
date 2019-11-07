@@ -11,3 +11,4 @@ class AddProductController extends Controller
       return redirect(view("Welcome",["path"=>$path]));
     }
 }
+
